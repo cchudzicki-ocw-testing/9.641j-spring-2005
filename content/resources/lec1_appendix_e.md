@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec1_appendix_e.pdf
 uid: 5f23aec2-0dd6-203c-1dd4-2d827ce518ac
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: kmeans.mat
 uid: f5af0e96-c22e-57b7-1e85-610fef6a767e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: faces.mat
 uid: 694a1a35-846f-05a7-fdb7-e0a06760baed
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

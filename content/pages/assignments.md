@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: a45d878e-0189-d0fd-46e1-dbf8ad68879f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Late Submission Policy
@@ -106,7 +110,7 @@ Problem Set 9: Delta Rule and Gradient Descent ({{% resource_link 03dbe288-7221-
 {{< tdopen >}}
 ps9faces.mat ({{% resource_link a1c9bbb2-3121-0ed0-227e-e44935dbcc59 "MAT" %}})  
   
-perceptron\_delta.m ([M](/courses/brain-and-cognitive-sciences/9-641j-introduction-to-neural-networks-spring-2005/assignments/perceptron_delta.m))  
+perceptron\_delta.m ({{% resource_link c2889b24-425a-8bf6-83d9-1b0c36fa96ce "M" %}})  
   
 mnistabridged.mat ({{% resource_link 93ad567c-b4b9-e5b7-f9b0-5bcee01654bf "MAT" %}})
 {{< tdclose >}}

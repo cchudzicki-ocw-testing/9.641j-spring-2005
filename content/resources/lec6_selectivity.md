@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec6_selectivity.pdf
 uid: 08794f21-2690-29e9-a847-9198d2b66f55
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

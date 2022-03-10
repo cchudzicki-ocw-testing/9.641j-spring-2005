@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec6_decisions.pdf
 uid: 4ecd6970-366a-afed-2a6f-9c835f753f56
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

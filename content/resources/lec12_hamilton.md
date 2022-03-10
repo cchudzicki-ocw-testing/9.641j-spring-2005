@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec12_hamilton.pdf
 uid: 2a75092b-89ee-55df-9d7d-6ed5e1855fec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

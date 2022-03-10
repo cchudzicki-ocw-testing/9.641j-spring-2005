@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec20_pavlov.pdf
 uid: ab8be687-4bd9-4a55-249e-f3e21b7248d5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

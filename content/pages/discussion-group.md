@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Discussion Group
 uid: b72b7139-2fc9-6945-22cc-156bc573d8fb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Educators, students, and self-learners interested in "Course 9.641J / 8.594J: Introduction to Neural Networks" are invited to interact with others utilizing these materials in their teaching and learning through the [Discussion Group](http://mit.ols.usu.edu/courses/subject?SubjectID=9.641J,%20Spring%202005) for this course.

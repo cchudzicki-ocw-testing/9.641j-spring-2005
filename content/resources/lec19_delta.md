@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec19_delta.pdf
 uid: 3a747021-6413-6092-9b61-31a373adc9c2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

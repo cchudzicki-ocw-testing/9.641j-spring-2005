@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec6_integrator.pdf
 uid: f9809bb7-09ee-a9c6-f5b9-a7dd2e79dec4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

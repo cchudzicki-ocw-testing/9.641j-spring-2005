@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec14_excinh.pdf
 uid: 38553a93-bde5-edde-52ef-3a93c6506fc4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

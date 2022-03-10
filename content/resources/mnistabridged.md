@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: mnistabridged.mat
 uid: 93ad567c-b4b9-e5b7-f9b0-5bcee01654bf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

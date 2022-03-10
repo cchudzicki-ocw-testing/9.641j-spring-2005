@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: ps9faces.mat
 uid: a1c9bbb2-3121-0ed0-227e-e44935dbcc59
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

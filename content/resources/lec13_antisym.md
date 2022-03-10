@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec13_antisym.pdf
 uid: 8332a815-ae1f-c9cd-a728-31442afcb29d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

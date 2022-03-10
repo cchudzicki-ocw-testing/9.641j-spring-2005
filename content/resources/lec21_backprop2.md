@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec21_backprop2.pdf
 uid: 67a3f09e-7a61-379c-b294-e7a7d5ef40a2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

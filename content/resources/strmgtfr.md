@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: strmgtfr.pdf
 uid: a5e7be50-b7e7-b261-0c5f-c5359cf6f597
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

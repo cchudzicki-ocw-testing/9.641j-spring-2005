@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec18_pca.pdf
 uid: e305ef5d-2ff8-6d1d-fb67-5dd83d30a5d0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

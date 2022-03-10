@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: telescope.mat
 uid: aa9beb10-b6e2-9d8a-fc3e-714bfadfc6e2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
