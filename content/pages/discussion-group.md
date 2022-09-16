@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Discussion Group offers individuals around the world the opportunity
+  to connect with each other, collaborate, form study groups, and receive support
+  for their use of MIT OCW materials in formal and informal educational settings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Discussion Group
